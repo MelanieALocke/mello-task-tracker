@@ -1,24 +1,9 @@
-# README
+# MELLO
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Mello is a task tracker app featuring interactive boards, lists, and tasks, and user personalization and collaboration. It replicates the design and functionality of the popular task tracker, Trello.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Technologies
+* JavaScript
+* Ruby on Rails
+* jQuery
+* HTML + CSS
