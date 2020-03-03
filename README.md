@@ -7,3 +7,4 @@ Mello is a task tracker app featuring interactive boards, lists, and tasks, and 
 * Ruby on Rails
 * jQuery
 * HTML + CSS
+* SortableJS Library
